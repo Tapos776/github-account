@@ -1,4 +1,10 @@
-p{
-    color: magenta;
-    background-color: darkblue;
+.container{
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    border: 2px solid #aaaaaa;
+    border-radius: 20px;
+    background-image: url("wal.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
