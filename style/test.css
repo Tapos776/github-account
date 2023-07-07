@@ -34,7 +34,7 @@ ul li a{
     display: inline-block;
 }
 .home{
-    background-image: linear-gradient(to right ,#fffcfc9d, #b3b3b179 ,#fffefe7e);
+    background-image: linear-gradient(to right ,#fffcfcb0, #64646485 ,#bebebe57);
     min-width: 100px;
     box-shadow: 10px 10px 10px rgb(55, 56, 55);
     position: absolute;
@@ -49,4 +49,8 @@ ul li a{
 }
 .one:hover .home{
     display: block;
+}
+a:hover{
+    background-image: linear-gradient(#fffcfcb0, #64646485 ,#bebebe57);
+
 }
